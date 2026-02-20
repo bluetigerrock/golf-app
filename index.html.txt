@@ -1,0 +1,5 @@
+<html>
+  <body>
+    <h1>Golf App Coming Soon</h1>
+  </body>
+</html>
